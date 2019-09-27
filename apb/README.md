@@ -1,4 +1,4 @@
-# Setting up a the Vert.x 
+# Setting up the worskhop
 
 If running via your own machine you can run the following command
 
